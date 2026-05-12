@@ -142,7 +142,7 @@ El proyecto está diseñado para brindar una experiencia cinematográfica modern
 # 📂 Estructura del proyecto
 
 ```bash
-Movie-Web/
+PlataformaMultimediaVue/
 │
 ├── public/
 ├── src/
@@ -174,7 +174,7 @@ Movie-Web/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/thanhlichqnuu/Movie-Web.git
+git clone https://github.com/isairey/PlataformaMultimediaVue.git
 ```
 
 ---
@@ -329,7 +329,7 @@ git push origin feature/new-feature
 ## ✉️ Email
 
 ```txt
-thanhlich2103gg@gmail.com
+Developer.SR.IRP@gmail.com
 ```
 
 ---
@@ -338,7 +338,7 @@ thanhlich2103gg@gmail.com
 
 <div align="center">
 
-## thanhlichqnuu
+## Isai Reyes
 
 Desarrollador enfocado en plataformas multimedia modernas usando Vue 3 y tecnologías web avanzadas.
 
